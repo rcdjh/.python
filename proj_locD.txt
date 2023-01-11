@@ -1,0 +1,5 @@
+Projeto Envio de E-mail
+Criar robo
+    Monitor | Teclado | Mouse | Internet > funcao pessoal
+    
+    Start Date.: 10.01.23 11:20pm GMT -3
