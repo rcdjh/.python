@@ -3,3 +3,8 @@ Criar robo
     Monitor | Teclado | Mouse | Internet > funcao pessoal
     
     Start Date.: 10.01.23 11:20pm GMT -3
+
+data.: 11.01.23
+Atualizando documento
+Melhorando o ambiente de desenvolvimento | vscode
+pessoal | profissional
